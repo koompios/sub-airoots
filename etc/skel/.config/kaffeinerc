@@ -1,0 +1,20 @@
+[DVB]
+ChannelViewState=AAAA/wAAAAAAAAABAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAMgAAAACAQEAAQAAAAAAAAAAAAAAAGT/////AAAAgQAAAAAAAAACAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAD6AAAAABk
+LastChannel=
+TabSplitterState=AAAA/wAAAAEAAAACAAAAkgAAAAAB/////wEAAAABAA==
+
+[KFileDialog Settings]
+Recent Files[$e]=Jay Chan - Celica អស់សាំង.mp4,file:$HOME/Downloads/Jay Chan - Celica អស់សាំង.mp4
+Recent URLs[$e]=file:$HOME/Downloads/
+
+[MainWindow]
+DisplayMode=0
+
+[MediaObject]
+AutoResizeFactor=0
+Deinterlace=0
+Volume=100
+
+[Recent Files]
+File1[$e]=$HOME/Videos/untitled.webm
+Name1[$e]=untitled.webm

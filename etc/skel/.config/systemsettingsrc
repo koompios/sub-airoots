@@ -1,0 +1,27 @@
+[DownloadDialog Settings]
+Height 1080=494
+Width 1920=700
+
+[KFileDialog Settings]
+Recent Files[$e]=1920x1080.jpg,file:///usr/share/sounds/Oxygen-Im-Cant-Connect.ogg
+Recent URLs[$e]=file:///usr/share/sounds/
+detailViewIconSize=0
+
+[KPropertiesDialog]
+Height 1080=456
+Width 1920=418
+
+[MainWindow]
+Height 1080=709
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAP9AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1920=1030
+Window-Maximized 1080x1920=true
+
+[Notification Messages]
+FontSettingsChanged=false
+
+[Open-with settings]
+CompletionMode=1
+History=pla

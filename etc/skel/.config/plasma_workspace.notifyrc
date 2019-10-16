@@ -1,0 +1,16 @@
+[Event/Trash: emptied]
+Execute=
+Logfile=
+TTS=
+
+[Event/messageWarning]
+Execute=
+Logfile=
+TTS=
+
+[Event/startkde]
+Action=Sound
+Execute=
+Logfile=
+Sound=
+TTS=

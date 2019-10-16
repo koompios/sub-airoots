@@ -1,0 +1,88 @@
+[General Options]
+Brightness=0
+ConsoleBackground=0,0,0
+ConsoleForeground=178,178,178
+Contrast=0
+Geometry=1920,1021
+Hue=0
+InfoWindowBackground=35,38,41
+InfoWindowFont=Noto Sans,10,-1,0,50,0,0,0,0,0,Regular
+InfoWindowForeground=239,240,241
+Maximum Bitrate=1024
+PlaylistActive=239,240,241
+PlaylistBackground=35,38,41
+PlaylistFont=Noto Sans,10,-1,0,50,1,0,0,0,0,Regular
+PlaylistForeground=239,240,241
+Preferred Bitrate=512
+Saturation=0
+Show Menubar=true
+URL List=file:///home/koompi/Desktop/งัดถั่งงัด%20 COVER MUSIC VIDEO 「โป่ง ไทบ้าน」 【COVER MV】.mp4
+URL Sub Title List=
+VideoBackground=0,0,0
+ViewingAreaBackground=0,0,0
+Volume=100
+urlsource=mplayer
+
+[MPlayer]
+Add Playlist Button=true
+Allow HREF=false
+Always build index=false
+Audio Driver=10
+Auto Adjust Colors=true
+Auto Adjust Volume=true
+Auto Resize=true
+Click to Play=false
+Dock in System Tray=true
+Immediately Play VCD=true
+MPlayer Path=mplayer
+Remember Size=true
+VCD Device=/dev/cdrom
+Video Driver=0
+
+[MPlayer Output Matching]
+CDROM Tracks=[Aa]udio CD[^0-9]+([0-9]+)[^0-9]tracks
+Index Pattern=Generating Index: +([0-9]+)%
+Reference Pattern=Reference Media file
+Reference URL Pattern=Playing\\s+(.*[^\\.])\\.?\\s*$
+
+[Post processing options]
+Autolevel=true
+Autolevel full range=false
+Automatically disable post processing=true
+Cubic Interpolating Deinterlacer=false
+Custom preset=false
+Default preset=true
+Dering auto quality=true
+Dering chrominance=false
+Dering filter=true
+FFmpeg Interpolating Deinterlacer=false
+Fast preset=false
+Horizontal deblocking=true
+Horizontal deblocking auto quality=true
+Horizontal deblocking chrominance=false
+Linear Blend Deinterlacer=false
+Linear Interpolating Deinterlacer=false
+Median Interpolating Deinterlacer=false
+Post processing=false
+Temporal Noise Reducer=true
+Temporal Noise Reducer strength=0
+Vertical deblocking=true
+Vertical deblocking auto quality=true
+Vertical deblocking chrominance=false
+
+[Recent Files]
+File1[$e]=$HOME/Desktop/Hey Mama - David Guetta ft. Nicki Minaj, Bebe Rexha & Afrojack  Beginners Class.mp4
+Name1[$e]=Hey Mama - David Guetta ft. Nicki Minaj, Bebe Rexha & Afrojack  Beginners Class.mp4
+
+[Recording]
+Auto Play After Recording=1
+Auto Play After Recording Time=60
+FFMpeg Arguments=-f avi -acodec mp3 -vcodec mpeg4
+Last Recording Output File[$e]=$HOME/record.avi
+Mencoder Arguments=-oac mp3lame -ovc lavc
+Recorder=0
+Recording Is Copy=true
+
+[Window Layout]
+Layout=\x00\x00\x00\xff\x00\x00\x00\x00\xfd\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x01\x04\x00\x00\x03\xc3\xfc\x02\x00\x00\x00\x01\xfb\x00\x00\x00\x10\x00p\x00l\x00a\x00y\x00l\x00i\x00s\x00t\x00\x00\x00\x00\x00\x00\x00\x03\xc3\x00\x00\x00v\x01\x00\x00\x03\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\xfc\x01\x00\x00\x00\x01\xfb\x00\x00\x00\x12\x00i\x00n\x00f\x00o\x00p\x00a\x00n\x00e\x00l\x00\x00\x00\x00\x00\xff\xff\xff\xff\x00\x00\x00`\x01\x00\x00\x03\x00\x00\x07\x80\x00\x00\x03\xc0\x00\x00\x00\x04\x00\x00\x00\x04\x00\x00\x00\x08\x00\x00\x00\x08\xfc\x00\x00\x00\x00
+Show playlist=false

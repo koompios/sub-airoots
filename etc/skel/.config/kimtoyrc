@@ -1,0 +1,7 @@
+[appearance]
+PreeditFont=Hack,9,-1,5,50,0,0,0,0,0,Regular
+
+[inputmethod]
+FcitxGTK_IM_MODULE=xim
+FcitxQT_IM_MODULE=xim
+RunFcitx=true

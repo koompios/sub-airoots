@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=output
+Comment=test
+Exec=sh /usr/bin/remove.sh 
+Icon=Development
+Terminal=false
+Type=Application
+Categories=Qt;Development;Documentation;
+

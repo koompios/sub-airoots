@@ -1,0 +1,11 @@
+##
+## Arch Linux repository mirrorlist
+## Filtered by mirror score from mirror status page
+## Generated on 2019-02-01
+##
+
+## Khmer
+
+Server = http://repo.kramaos.org/$repo/os/$arch
+
+

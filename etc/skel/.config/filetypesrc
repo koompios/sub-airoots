@@ -1,0 +1,5 @@
+[EmbedSettings]
+embed-application/x-shellscript=false
+embed-application/x-zerosize=false
+embed-audio/mpeg=false
+embed-text/plain=false

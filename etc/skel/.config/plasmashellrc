@@ -1,0 +1,22 @@
+[DownloadDialog Settings]
+Height 1080=494
+Width 1920=700
+
+[Open-with settings]
+CompletionMode=1
+History=
+
+[PlasmaRunnerManager]
+LaunchCounts=5 services_telegramdesktop.desktop,1 services_org.kde.kdenlive.desktop,1 services_powerdevilactivitiesconfig.desktop,15 services_about-distro.desktop,7 services_org.kde.dolphin.desktop,5 services_google-chrome.desktop,3 services_firefox-developer-edition.desktop,1 services_libreoffice-base.desktop,1 services_gimp.desktop,3 services_brave-bin.desktop,1 services_org.kde.ksysguard.desktop,1 services_darktable.desktop,2 services_guvcview.desktop,1 services_libreoffice-calc.desktop,2 services_libreoffice-startcenter.desktop,1 services_clipgrab.desktop,2 services_klavaro.desktop,1 services_libreoffice-math.desktop,1 services_systemsettings.desktop,10 services_libreoffice-writer.desktop,1 services_inkscape.desktop,1 services_org.kde.gwenview.desktop,4 services_firefox.desktop,1 services_libreoffice-draw.desktop
+pluginWhiteList=desktopsessions,services,places,PowerDevil,calculator,unitconverter,shell,bookmarks,recentdocuments,locations,baloosearch
+
+[PlasmaViews][Panel 3][Horizontal1920]
+thickness=34
+
+[ScreenConnectors]
+0=eDP-1
+1=DP-1
+2=:0.0
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js

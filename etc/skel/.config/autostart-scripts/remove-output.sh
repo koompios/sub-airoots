@@ -1,0 +1,1 @@
+/home/koompi/.config/autostart/remove-output.sh
